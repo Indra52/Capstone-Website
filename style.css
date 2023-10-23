@@ -1,0 +1,128 @@
+#Header{
+    background-color: #0F2C59;
+    font-family: 'DM Serif Text', serif;
+    font-size: 20px;
+    
+}
+
+#Title{
+
+    background-color: #DAC0A3;
+    height: 550px;
+    
+}
+
+#Intro{
+    background-color: #0F2C59;
+}
+
+#Skills{
+    background-color: #F8CA84;
+    height: 1200px;
+    
+    
+}
+
+#Projects{
+    background-color: #0F2C59;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#Footers{
+    background-color: #DAC0A3;
+
+}
+
+.hello{
+    font-family: 'DM Serif Text', serif;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+
+.name{
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+}
+
+span{
+    font-weight: bold;
+
+}
+
+.Title-text{
+    margin-top: 100px;
+}
+
+.lead{
+    color: white;
+    font-family: 'DM Serif Text', serif;
+    
+}
+
+.Features{
+    color: white;
+    font-family: 'DM Serif Text', serif;
+    font-size: 56px;
+    font-weight: bold;
+}
+
+.website{
+
+    color: white;
+    font-family: 'DM Serif Text', serif;
+    font-size: 35px;
+    color: black;
+    font-weight: bold;
+}
+
+.para{
+    color: white;
+    font-family: 'DM Serif Text', serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+
+}
+
+.skill{
+    height: 500px;
+}
+
+.box{
+    height: 150px;
+    width: 250px;
+    background-color: bisque;
+    border-radius: 15%;
+    margin-top: 100px;
+    padding-left: 100px;
+    padding-top: 40px;
+}
+
+.text{
+    color: white;
+    font-family: 'DM Serif Text', serif;
+    font-size: 60px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+
+.p{
+    color: white;
+    font-family: 'DM Serif Text', serif;
+    font-size: 56px;
+    font-weight: bold;
+
+}
+
+.intro{
+    padding-top: 100px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+}
